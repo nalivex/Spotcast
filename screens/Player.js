@@ -209,7 +209,7 @@ export function PlayerScreen() {
               duration="250"
               easing="linear"
             >
-              Miguel - Felicidade #36
+              Miguel - Felicidade #37
             </PlayerAreaText.Title>
             <PlayerAreaText.Author
               animation="slideInLeft"
